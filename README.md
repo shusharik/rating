@@ -1,0 +1,2 @@
+# rating
+AngularJS rating directive
